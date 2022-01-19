@@ -1,8 +1,11 @@
 # Education Hub
 
+Important note: You can start discussing about the ideas and projects in the `Discussions` section of the repository.
 ## Introduction
 
 This repository is a collective effort to create, and maintain a beginner friendly yet thorough step by step guide for ML engineer interns and junior engineers to become familiar with different concepts in production ML environment.
+
+
 
 ### Prerequisites
 1. Familiarity with Python. If you do not know how to code in python, this course is too advanced for you. We have a set of minimal tutorials and introductions but they are very brief and exist only to refresh the memory of the students.
