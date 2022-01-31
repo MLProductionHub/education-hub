@@ -8,15 +8,25 @@ This is a collection of resources for learning the basic of programming using py
 
 These are some resources and snippets about different domains of programming.
 
-## OOP
+## Some background
 
-### Python Tutorials:
+Comparison of Imperative, Procedural, Object Oriented and Functional Programming Paradigms.
+
+1. [4 Programming Paradigms in 40 Minutes](https://youtu.be/cgVVZMfLjEI)
+
+
+## OOP 
 
 1. [Carey Schafer's Python OOP Playlist](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 2. [Tech with Tim's Python OOP Video](https://www.youtube.com/watch?v=JeznW_7DlB0)
 
 
+## Functional Programming
+
+1. [Mary Rose Cook's Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+
+2. [Functional Programming in Python by David Merz](https://www.oreilly.com/library/view/functional-programming-in/9781492048633/)
 
 # Important Terms
 
